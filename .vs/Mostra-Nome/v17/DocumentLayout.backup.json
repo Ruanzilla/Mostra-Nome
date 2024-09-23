@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliev\\source\\repos\\Mostra-Nome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80EACBBA-DB65-4FA5-BC23-AB04F66A9850}|Mostra-Nome.vcxproj|C:\\Users\\aliev\\source\\repos\\Mostra-Nome\\Mostra-Nome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80EACBBA-DB65-4FA5-BC23-AB04F66A9850}|Mostra-Nome.vcxproj|solutionrelative:Mostra-Nome.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mostra-Nome.cpp",
+              "DocumentMoniker": "C:\\Users\\aliev\\source\\repos\\Mostra-Nome\\Mostra-Nome.cpp",
+              "RelativeDocumentMoniker": "Mostra-Nome.cpp",
+              "ToolTip": "C:\\Users\\aliev\\source\\repos\\Mostra-Nome\\Mostra-Nome.cpp",
+              "RelativeToolTip": "Mostra-Nome.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T19:25:59.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
